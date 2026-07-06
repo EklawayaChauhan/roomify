@@ -6,8 +6,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
 ![Vite](https://img.shields.io/badge/Vite-6-purple?logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-06B6D4?logo=tailwindcss)
+![Puter](https://img.shields.io/badge/Puter-AI-5A67D8?logo=cloudflare&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?logo=googlegemini&logoColor=white)
+![AI Powered](https://img.shields.io/badge/AI-Powered-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## 📖 Overview
